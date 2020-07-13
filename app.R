@@ -21,6 +21,7 @@ dat <-
 # -------------------------------------------------------------------------
 
 # FUNCTION TO BE USED ON SERVER SIDE
+# THIS FUNCTION REPOSITIONS THE COUNT DATA BASED ON THE FILTERS
 
 placement <- function(Time) {
     
